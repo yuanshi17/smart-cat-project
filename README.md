@@ -2,13 +2,13 @@
 
 **Overview**
 
-Smart Cat is an intelligent system designed to support cat owners in monitoring and understanding their cats’ behaviors, habits, and needs.
+Smart Cat is an intelligent system designed to support cat owners to take care of their cats when they are away.
 In this phase of the project, I focus on integrating API-based data retrieval into the system — using real-world data sources to make the cat care experience more adaptive and data-driven. 
 
 **Purpose**
 
 This notebook demonstrates how APIs can enhance Smart Cat’s functionality.
-By connecting to external data sources (e.g., weather or nutrition APIs), the system can make informed suggestions — for example, adjusting feeding times or indoor play activities based on temperature or daylight.
+By connecting to external data sources (e.g., weather API), the system can make informed suggestions — for example, adjusting feeding times or indoor play activities based on temperature or daylight.
 
 **Example API Used**
 
