@@ -16,5 +16,4 @@ OpenWeatherMap API
 
 Fetches real-time weather data for a selected city.
 The system then uses this data to simulate suggestions, e.g.:
-If it’s too cold, recommend more indoor activity time.
-If it’s sunny, suggest window time or outdoor exploration (if safe).
+If it’s too cold, recommend to keep cats warm.
